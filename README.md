@@ -1,7 +1,8 @@
 # Party-MS
 # 中文
 ### 介绍
-党务管理信息系统
+##### 党务管理信息系统
+##### 信息系统编程实验
 
 ### 使用说明
 ##### 使用C#编写，包括基本资料管理、教育管理、文书审查、发展计划管理以及会议管理
@@ -17,6 +18,7 @@
 # English
 ### Introduction
 ##### Party Management Information System
+##### MIS course's project
 
 ##### Developed with C sharp, including:
 ##### 1. Basic Information Management
