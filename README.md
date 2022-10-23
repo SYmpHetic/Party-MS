@@ -11,7 +11,7 @@
 ## 开发人员
 ##### 石业瀚(Yehan SHI)  --  SYmpHony
 ##### 冉红云(Hongyun RAN)  --  rhy20220905
-#### 特别感谢
+## 特别感谢
 ##### Woqi Cai  --  系统设计、开发思路以及具体过程探讨
 ##### Yuyang Zhang  --  系统设计
 
