@@ -8,23 +8,23 @@
 囊括了入党过程中大部分流程
 
 #### 开发人员
-Yehan SHI  --  SYmpHony
-Hongyun RAN  --  rhy20220905
+##### Yehan SHI  --  SYmpHony
+##### Hongyun RAN  --  rhy20220905
 #### 特别感谢
-Woqi Cai  --  系统设计、开发思路以及具体过程探讨
-Yuyang Zhang  --  系统设计
+##### Woqi Cai  --  系统设计、开发思路以及具体过程探讨
+##### Yuyang Zhang  --  系统设计
 
 # English
 #### Introduction
-Party Management Information System
+##### Party Management Information System
 
-Developed with C sharp, including:
-1. Basic Information Management
-2. Education Management
-3. Writ Management
-4. Plan Management
-5. Meeting Management
+##### Developed with C sharp, including:
+##### 1. Basic Information Management
+##### 2. Education Management
+##### 3. Writ Management
+##### 4. Plan Management
+##### 5. Meeting Management
 
 #### Special Thanks
-Woqi CAI  --  System Design, Developing Methods and Process Discussion
-Yuyang ZHANG  --  System Design
+##### Woqi CAI  --  System Design, Developing Methods and Process Discussion
+##### Yuyang ZHANG  --  System Design
