@@ -18,12 +18,12 @@
 ## English
 ## Introduction
 ##### Party Management Information System
-##### MIS course's project
+##### Course Project for Information System Programming Experiment
 
 ##### Developed with C sharp, including:
 ##### 1. Basic Information Management
 ##### 2. Education Management
-##### 3. Writ Management
+##### 3. Documents Management
 ##### 4. Plan Management
 ##### 5. Meeting Management
 
